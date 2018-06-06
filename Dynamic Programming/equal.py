@@ -7,7 +7,7 @@ https://www.hackerrank.com/challenges/equal/problem
 
 Since add to all but one is same as minus to one value,
 find the lowest value and check how many operation it 
-takes to make all the value same with just minus.
+takes to make all the value same with just minus.gt
 
 * Need to check min value ~ min value -1 because 
 it may take less operation.
