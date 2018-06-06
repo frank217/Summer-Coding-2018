@@ -1,0 +1,58 @@
+4
+5 7 2 3 2 2 2
+A 1
+B 2
+C 3
+D 1
+E 2
+A B
+B A
+C D
+E D
+E A
+B D
+B C
+9 6 3 5 2 2 2
+A 1
+B 2
+C 3
+D 1
+E 2
+F 3
+G 2
+H 3
+I 1
+A B
+C D
+E D
+F G
+G C
+F A
+7 7 5 5 2 2 2
+A 1
+B 2
+C 3
+D 1
+E 2
+F 1
+G 1
+A B
+B C
+D E
+C A
+C B
+F A
+G A
+5 5 2 9 9 9 9
+Hulk 2
+BlackWidow 2
+IronMan 2
+Thor 3
+SpiderMan 1
+Hulk Thor
+IronMan SpiderMan
+Hulk Thor
+Hulk Thor
+Hulk Thor
+
+
