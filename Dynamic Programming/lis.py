@@ -188,7 +188,16 @@ print("Length of Longest Increasing Subsequence is ",
 
 
 
+"""
+Note : 
+If the question require longest subsequence instead of of its length
+one simply need to add another list that contains which index it has 
+chosen to get the max length at each index. Doing so one can reconstruct
+longest subsequence very easily. 
 
+Use of index is because of better memory utilization(saving entire subsequence
+will take n^2 instead of n).
+"""
 
 
 
